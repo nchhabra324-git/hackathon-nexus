@@ -92,7 +92,7 @@ To ensure the application works as intended, we focused on these core scenarios:
 ---
 
 ## 👥 Team
-* **[Your Name]** - *Full Stack Developer*
+* **Code Blitz** 
 
 ---
 
